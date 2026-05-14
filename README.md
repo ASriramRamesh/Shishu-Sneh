@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shishu-Sneh Android App
 
 Native Android app built with **Kotlin + Jetpack Compose + Room DB**.
@@ -50,3 +51,7 @@ Native Android app built with **Kotlin + Jetpack Compose + Room DB**.
 - `doctor_visits`
 
 All data is stored locally — no internet required.
+=======
+# Shishu-Sneh
+Shishu-Sneh (meaning "Love for the Child" in Hindi) is an Android mobile application designed as a digital companion for new mothers during the critical first year of a baby's life.
+>>>>>>> ca6ea7b079d0a4f1a16548377961d27cb7e2390d
