@@ -1,0 +1,3 @@
+-keep class com.shishusneh.app.data.db.** { *; }
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
